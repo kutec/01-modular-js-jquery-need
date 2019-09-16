@@ -1,12 +1,11 @@
 // Import stylesheets
 import './style.css';
 
-// jquery
+// external libraries
 import $ from "jquery";
 import Mustache from 'mustache';
 
 // Write Javascript code!
-
 var people = [];
 var template = $('#people-template').html();
 
